@@ -1,1 +1,1 @@
-fun terminal game project with python and curser
+fun terminal game project with python and curses
